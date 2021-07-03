@@ -1,4 +1,4 @@
-// C++ code
+// C-embedded code
 //
 #include <Servo.h>
 
